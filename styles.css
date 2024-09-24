@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+.container {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background-color: blue;
+  height: 100vh;
+  justify-content: center;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+}
